@@ -1,0 +1,23 @@
+{
+  "name": "খিলমুরারী একতা সমবায় সমিতি",
+  "short_name": "খিলমুরারী সমিতি",
+  "description": "খিলমুরারী একতা সমবায় সমিতি (স্থাপিতঃ ১ জুলাই ২০১৫ খ্রি.) ব্যবস্থাপনা অ্যাপ",
+  "start_url": "/Khilmurari-somiti-management/",
+  "scope": "/Khilmurari-somiti-management/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#14532d",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
